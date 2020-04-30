@@ -6,5 +6,5 @@ ology of each speaker – Party: (Republican, Democrat, or Independent).
 ##### Acknowledgements
 Gentzkow, Matthew, Jesse M Shapiro, and Inter-university Consortium for Political Social Research. Political Slant of United States Daily Newspapers, 2005 (2009). Web. (https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/26242)
 ##### Objective
-Implement K-means methods and topic models to cluster text and interpret topics
+Implement K-means methods and topic models to cluster text and interpret topics <br>
 Built and compared multiple topic regression models to predict party membership from text clusters
